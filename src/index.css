@@ -4,6 +4,7 @@
 @import 'https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap';
 
 
+ /* Home-page Styles */
 
 .headerFont {
   font-family: 'Montserrat', sans-serif;
@@ -65,3 +66,17 @@
   font-size: 0.75rem;
   letter-spacing: 0.05em;
 }
+
+   /* About-page Styles */
+
+.WelcomeFont {
+      font-family: "Open Sans", sans-serif;
+    }
+
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+    .no-scrollbar {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }

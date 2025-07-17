@@ -2,6 +2,7 @@ import React from 'react'
 import Header from './components/Header.jsx'
 import Home_page from './pages/Home_page.jsx'
 import Footer from './components/Footer.jsx'
+import About_page from './pages/About_page.jsx'
 
 
 function App() {
@@ -10,7 +11,7 @@ function App() {
     <>
       <Header />
       <div>
-        <Home_page />
+        <About_page />
       </div>
       <Footer />
     </>
