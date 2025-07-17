@@ -1,0 +1,67 @@
+@import "tailwindcss";
+@import 'https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap';
+
+
+
+.headerFont {
+  font-family: 'Montserrat', sans-serif;
+  background-color: black;
+}
+
+.headingFont {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  margin: 0 auto;
+  padding: 0 ;
+  color:#9b7f00;
+}
+
+.DifferentFont {
+  font-family: 'Open Sans', sans-serif;
+  background-color: white;
+}
+
+.SearchbyFont {
+      font-family: Arial, sans-serif;
+      background-color: white;
+    }
+
+.LocationFont {
+      font-family: "Inter", sans-serif;
+    }
+
+.StudentFont {
+  font-family: 'Open Sans', sans-serif;
+  background-color: black;
+  color: white;
+}
+
+.EventsFont{
+  font: sans-serif;
+}
+
+.OurfacultyFont {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.FooterFont{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.FollowusFont {
+  font-family: "Inter", sans-serif;
+  background-color: white;
+}
+
+.tracking-widest-2 {
+  letter-spacing: 0.2em;
+}
+
+.uppercase-small {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+}
